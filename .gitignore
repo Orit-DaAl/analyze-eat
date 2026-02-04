@@ -1,0 +1,35 @@
+### Java & Maven ###
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.mvn/wrapper/maven-wrapper.jar
+
+### Eclipse / STS (Specific to your file list) ###
+.settings/
+.project
+.classpath
+.factorypath
+.springBeans
+.sts4-cache
+.apt_generated
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+### OS specific ###
+.DS_Store
+Thumbs.db
+
+### Local Environment ###
+# If you create an application-local.properties for your API Key
+src/main/resources/application-local.properties
